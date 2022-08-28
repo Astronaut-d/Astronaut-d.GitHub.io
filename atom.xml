@@ -6,7 +6,7 @@
   <link href="https://astronaut-d.github.io/atom.xml" rel="self"/>
   
   <link href="https://astronaut-d.github.io/"/>
-  <updated>2022-08-28T10:47:02.522Z</updated>
+  <updated>2022-08-28T14:10:12.196Z</updated>
   <id>https://astronaut-d.github.io/</id>
   
   <author>
@@ -21,21 +21,15 @@
     <link href="https://astronaut-d.github.io/2022/08/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>https://astronaut-d.github.io/2022/08/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-08-27T11:29:17.000Z</published>
-    <updated>2022-08-28T10:47:02.522Z</updated>
+    <updated>2022-08-28T14:10:12.196Z</updated>
     
-    <content type="html"><![CDATA[<p>记录一下2022年，也是人生第一次秋招投递的面试</p><p>公司：某硬件起家的大厂</p><p>岗位：安全技术开发工程师</p><p>面试问题(凭记忆列出来的，顺序可能不太对，不过不影响)：</p><ol><li>自我介绍</li><li>问项目，我有两个开发项目，问具体的开发细节，开发的软件具体功能，开发过程中遇到的技术细节难点，怎样解决的</li><li>Python语言的特点，这么泛，我一下子没答上来</li><li>Python的模块导入顺序</li><li>有没有用过Python的框架</li><li>Python数据类型的特点</li><li>你能立马想到的获取文件扩展名的方式</li><li>SQL了解多少，说一下只列出10条记录的查询语句</li><li>CTF你负责什么方向，挑一个比赛的具体例子讲一下是如何解出来题目的</li><li>反问</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>记录一下2022年，也是人生第一次秋招投递的面试</p><p>公司：某硬件起家的大厂</p><p>岗位：安全技术开发工程师</p><p>面试问题(凭记忆列出来的，顺序可能不太对，不过不影响)：</p><span id="more"></span><ol><li>自我介绍</li><li>问项目，我有两个开发项目，问具体的开发细节，开发的软件具体功能，开发过程中遇到的技术细节难点，怎样解决的</li><li>Python语言的特点，这么泛，我一下子没答上来</li><li>Python的模块导入顺序</li><li>有没有用过Python的框架</li><li>Python数据类型的特点</li><li>你能立马想到的获取文件扩展名的方式</li><li>SQL了解多少，说一下只列出10条记录的查询语句</li><li>CTF你负责什么方向，挑一个比赛的具体例子讲一下是如何解出来题目的</li><li>反问</li></ol>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;记录一下2022年，也是人生第一次秋招投递的面试&lt;/p&gt;
 &lt;p&gt;公司：某硬件起家的大厂&lt;/p&gt;
 &lt;p&gt;岗位：安全技术开发工程师&lt;/p&gt;
-&lt;p&gt;面试问题(凭记忆列出来的，顺序可能不太对，不过不影响)：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;自我介绍&lt;/li&gt;
-&lt;li&gt;问项目，我有两个开发</summary>
-      
+&lt;p&gt;面试问题(凭记忆列出来的，顺序可能不太对，不过不影响)：&lt;/p&gt;</summary>
     
     
     
