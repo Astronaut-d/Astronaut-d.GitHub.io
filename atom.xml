@@ -6,7 +6,7 @@
   <link href="https://astronaut-d.github.io/atom.xml" rel="self"/>
   
   <link href="https://astronaut-d.github.io/"/>
-  <updated>2022-08-28T01:59:36.368Z</updated>
+  <updated>2022-08-28T10:47:02.522Z</updated>
   <id>https://astronaut-d.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://astronaut-d.github.io/2022/08/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>https://astronaut-d.github.io/2022/08/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-08-27T11:29:17.000Z</published>
-    <updated>2022-08-28T01:59:36.368Z</updated>
+    <updated>2022-08-28T10:47:02.522Z</updated>
     
     <content type="html"><![CDATA[<p>记录一下2022年，也是人生第一次秋招投递的面试</p><p>公司：某硬件起家的大厂</p><p>岗位：安全技术开发工程师</p><p>面试问题(凭记忆列出来的，顺序可能不太对，不过不影响)：</p><ol><li>自我介绍</li><li>问项目，我有两个开发项目，问具体的开发细节，开发的软件具体功能，开发过程中遇到的技术细节难点，怎样解决的</li><li>Python语言的特点，这么泛，我一下子没答上来</li><li>Python的模块导入顺序</li><li>有没有用过Python的框架</li><li>Python数据类型的特点</li><li>你能立马想到的获取文件扩展名的方式</li><li>SQL了解多少，说一下只列出10条记录的查询语句</li><li>CTF你负责什么方向，挑一个比赛的具体例子讲一下是如何解出来题目的</li><li>反问</li></ol>]]></content>
     
@@ -49,7 +49,7 @@
     <link href="https://astronaut-d.github.io/2022/08/27/hello-world/"/>
     <id>https://astronaut-d.github.io/2022/08/27/hello-world/</id>
     <published>2022-08-27T10:41:29.331Z</published>
-    <updated>2022-08-27T10:41:29.331Z</updated>
+    <updated>2022-08-28T10:47:02.520Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
