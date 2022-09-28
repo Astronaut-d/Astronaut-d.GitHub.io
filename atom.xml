@@ -6,7 +6,7 @@
   <link href="https://astronaut-d.github.io/atom.xml" rel="self"/>
   
   <link href="https://astronaut-d.github.io/"/>
-  <updated>2022-09-28T12:29:01.189Z</updated>
+  <updated>2022-09-28T12:33:56.474Z</updated>
   <id>https://astronaut-d.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://astronaut-d.github.io/2022/09/28/%E9%A2%9C%E8%89%B2%E5%8E%82%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86/"/>
     <id>https://astronaut-d.github.io/2022/09/28/%E9%A2%9C%E8%89%B2%E5%8E%82%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86/</id>
     <published>2022-09-28T12:07:04.000Z</published>
-    <updated>2022-09-28T12:29:01.189Z</updated>
+    <updated>2022-09-28T12:33:56.474Z</updated>
     
-    <content type="html"><![CDATA[<p>  回想一下颜色厂的三次面试经历，已拿到offer，记录一下，也希望对各位有所帮助。</p><p><strong>一面：</strong></p><span id="more"></span><ol><li>自我介绍（这个不用讲，任何面试第一环节都这样）</li><li>问项目（简历有写，两个简单的开发经历，因为项目简单没什么深度，简单问了问，都答上来了，至此进入状态）</li><li>网络基础怎么样</li><li>系统基础呢</li><li>dns缺省端口</li><li>文件上传漏洞特点</li><li>stp协议（这个当时没答上来，有点懵，一下慌了神）</li><li>dhcp协议</li><li>TCP/UDP特点（老八股文了，提前背过）</li><li>使用TCP的协议</li><li>使用UDP的协议</li><li>永恒之蓝了解吗（不了解，没详细研究过）</li><li>常见的Web安全攻击方式</li><li>静态路由规则和缺省路由的优先级</li><li>解释了下stp协议</li><li>情景题</li><li>反问</li></ol><p>时隔大概一周吧，竟然过了一面，有点小惊喜</p><p><strong>二面：</strong></p><ol><li>自我介绍</li><li>问项目，没有一面那么详细</li><li>自己评价下网络水平</li><li>岗位的理解</li><li>竞赛里使用的算法具体是什么（很久远给忘了，硬着头皮说了一些）</li><li>介绍和另一个岗位的区别，怕我投错了（真的细节，好感拉满）</li><li>反问</li></ol><p>二面内容记录找不到了，纯回忆，但是很明确的是它不局限于技术本身，还有一些你使用技术时的思考，知其然知其所以然</p><p><strong>三面：</strong></p><ol><li>自我介绍</li><li>岗位的理解</li><li>问竞赛扮演的角色</li><li>怎样排解压力</li><li>平时学习路线（技术博主？技术视频？）</li><li>爱看什么书</li><li>怎么样和队员交流，解决分歧</li><li>自我评价</li><li>个人兴趣爱好</li><li>家庭情况</li><li>有几个offer</li></ol><p>之后三四天吧HR打电话说面试全部通过，后续聊薪资，现已offer</p>]]></content>
+    <content type="html"><![CDATA[<p>  回想一下颜色厂的三次面试经历，已拿到offer，记录一下，也希望对各位有所帮助。</p><p><strong>一面：</strong></p><span id="more"></span><ol><li>自我介绍（这个不用讲，任何面试第一环节都这样）</li><li>问项目（简历有写，两个简单的开发经历，因为项目简单没什么深度，简单问了问，都答上来了，至此进入状态）</li><li>网络基础怎么样</li><li>系统基础呢</li><li>dns缺省端口</li><li>文件上传漏洞特点</li><li>stp协议（这个当时没答上来，有点懵，一下慌了神）</li><li>dhcp协议</li><li>TCP/UDP特点（老八股文了，提前背过）</li><li>使用TCP的协议</li><li>使用UDP的协议</li><li>永恒之蓝了解吗（不了解，没详细研究过）</li><li>常见的Web安全攻击方式</li><li>静态路由规则和缺省路由的优先级</li><li>解释了下stp协议</li><li>情景题</li><li>反问</li></ol><p>时隔大概一周吧，竟然过了一面，有点小惊喜</p><p><strong>二面：</strong></p><ol><li>自我介绍</li><li>问项目，没有一面那么详细</li><li>自己评价下网络水平</li><li>岗位的理解</li><li>竞赛里使用的算法具体是什么（很久远给忘了，硬着头皮说了一些）</li><li>介绍和另一个岗位的区别，怕我投错了（真的细节，好感拉满）</li><li>反问</li></ol><p>二面内容记录找不到了，纯回忆，但是很明确的是它不局限于技术本身，还有一些你使用技术时的思考，知其然知其所以然</p><p><strong>三面：</strong></p><ol><li>自我介绍</li><li>岗位的理解</li><li>问竞赛扮演的角色</li><li>怎样排解压力</li><li>平时学习路线（技术博主？技术视频？）</li><li>爱看什么书</li><li>怎么样和队员交流，解决分歧</li><li>自我评价</li><li>个人兴趣爱好</li><li>家庭情况</li><li>有几个offer</li></ol><p>之后过了三四天吧，HR打电话说面试全部通过，后续聊薪资，现已offer</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;  回想一下颜色厂的三次面试经历，已拿到offer，记录一下，也希望对各位有所帮助。&lt;/p&gt;
